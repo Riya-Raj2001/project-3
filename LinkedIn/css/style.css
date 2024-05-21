@@ -1,0 +1,447 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.section1 {
+    margin-left: 80px;
+
+
+}
+
+.linkedin {
+    border: 1px solid white;
+    font-size: 40px;
+    color: blue;
+    font-weight: 800;
+}
+
+.pdiv1 {
+    display: flex;
+    flex-direction: row;
+
+    flex-basis: 50px;
+    justify-content: space-between;
+    padding-left: 450px;
+    margin-top: -50px;
+}
+
+.cdiv1 {
+    text-align: center;
+    border: 1px solid white;
+    cursor: pointer;
+    color: grey;
+}
+
+.cdiv1:hover {
+    color: black;
+    visibility: visible;
+    transition: 0.3secs;
+}
+
+.cdiv2 {
+    padding-top: 30px;
+}
+
+.headericon {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.button1 {
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 50px;
+    margin-top: -10px;
+    cursor: pointer;
+
+}
+
+.button1:hover {
+    background-color: lightgray;
+}
+
+.button2 {
+    border: 1px solid blue;
+    background-color: white;
+    color: blue;
+    padding: 10px;
+    border-radius: 50px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+
+.button2:hover {
+    background-color: lightskyblue;
+}
+
+.section2 {
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+
+
+}
+
+
+.cdiv3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+
+}
+
+.pdiv2 {
+    margin: 60px;
+
+}
+
+.section2h1 {
+    font-size: 50px;
+    font-weight: 100;
+    text-align: justify;
+}
+
+.section2div {
+    margin: 5px;
+
+}
+
+.section2button {
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 40px;
+    color: grey;
+    cursor: pointer;
+}
+
+.section2button:hover {
+    color: black;
+}
+
+.sec2showall {
+    border: 1px solid blue;
+    padding: 15px;
+    border-radius: 40px;
+    color: blue;
+    cursor: pointer;
+}
+
+.sec2showall:hover {
+    background-color: lightblue;
+}
+
+.section2div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.section3 {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.section3h1 {
+    font-size: 50px;
+    font-weight: 100;
+    margin-left: 35px;
+}
+
+.section4 {
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color: whitesmoke;
+    width: 100%;
+
+
+
+
+}
+
+.sec4h1 {
+    color: brown;
+}
+
+_____________________________________________________________________________________________________________________________
+ .form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.head {
+    color: brown;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    border: none;
+    width: 390px;
+    height: 30px;
+    margin-left: 10PX;
+}
+
+.email {
+    border: 2px solid black;
+    width: 450px;
+    height: 45px;
+}
+
+.password {
+    border: 2px solid black;
+    width: 450px;
+    height: 45px;
+}
+
+.show {
+    border: none;
+    width: 8px;
+    height: 50px;
+    color: blue;
+    background-color: transparent;
+}
+
+span {
+    color: blue;
+}
+
+.mail {
+    border: 2px solid black;
+    width: 450px;
+    height: 45px;
+    border-radius: 20px;
+}
+
+.google {
+    border: none;
+    height: 50px;
+    background-color: transparent;
+}
+
+.joinNow {
+    border: 2px solid black;
+    width: 450px;
+    height: 45px;
+    border-radius: 20px;
+}
+
+.signin {
+    background-color: blue;
+    border-radius: 20px;
+    width: 420px;
+    height: 45px;
+    color: white;
+
+}
+
+.firstImg {
+    height: 600px;
+    width: 600px;
+    margin-top: -600px;
+    margin-left: 700px;
+}
+
+
+___________________________________________________________________________________________________________________________________________________________ 
+.lastImage {
+    width: 100%;
+}
+
+.listsection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: lightgray;
+
+}
+
+.list {
+    list-style-type: none;
+}
+
+.linkedin2 {
+    border: 1px solid lightgray;
+    font-size: 20px;
+    color: blue;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+.nav:hover {
+    color: navy;
+    cursor: pointer;
+}
+
+
+
+
+.div_7Img {
+    height: 450px;
+    background-color: rgb(231, 220, 201);
+    border-radius: 50%;
+    margin: 100px;
+}
+
+.div_7 {
+    background-color: rgb(231, 220, 201);
+    display: flex;
+
+}
+
+.div_7_1 {
+    background-color: rgb(231, 220, 201);
+    height: 500px;
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 100px;
+}
+
+.arrow {
+
+    color: black;
+    height: 30px;
+    width: 30px;
+    margin-top: 300px;
+    margin-right: 80PX;
+}
+
+.arrow:hover {
+    color: dodgerblue;
+    cursor: pointer;
+
+}
+
+.h2 {
+    color: rgb(193, 93, 16);
+}
+
+
+.div_8 {
+    display: flex;
+    column-count: 2;
+    column-gap: 100px;
+    margin-left: 100px;
+   
+}
+
+.div_8_head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 200;
+    width: 500px;
+}
+
+.div_8_img {
+    height: 320px;
+    width: 320px;
+}
+
+.find {
+    border: 1px solid black;
+    width: 210px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.dropDown {
+    padding: 15px;
+    font-size: 15px;
+}
+
+
+
+
+
+.div_9 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div_9_1 {
+    background-color: beige;
+    width: 150%;
+    padding: 100px 100px 100px 10px;
+    height: 600px;
+
+}
+
+.div_9_head {
+    color: brown;
+    font-size: 50px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    ;
+}
+
+.div_9_para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+}
+
+.div_9_box {
+    background-color: bisque;
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    margin-top: 10px;
+    /* justify-content: space-around; */
+}
+
+.arrows {
+    margin-top: 18px;
+    margin-left: 180px;
+}
+
+.arrows2 {
+    margin-top: 18px;
+    margin-left: 280px;
+}
+
+.arrows3 {
+    margin-top: 18px;
+    margin-left: 215px;
+}
+
+
+
+
+
+
+
+.div_10 {
+    display: flex;
+    margin-left: 80px;
+}
+
+.iframe {
+    height: 400px;
+    width: 550px;
+}
+
+.div_10_right {
+    margin: 50px;
+    width: 600PX;
+}
+
+.div_10_head {
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.div_10_para {
+    font-size: 40px;
+}
